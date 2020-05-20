@@ -104,3 +104,29 @@ Example:-
 <img>
 <input>
 ````
+
+## HTML Versions
+````html
+| Versions   | Year  |
+| -------    | ------|
+| HTML       | 1991  |
+| HTML 2.0   | 1995  |
+| HTML 3.2   | 1997  |
+| HTML 4.01  | 1999  |
+| XHTMl      | 2000  |
+| HTML 5     | 2014  |
+````
+## HTML 5
+> HTML 5 enables to create to more interactive website by embedding video, audio and graphics on the web pages.
+The purpose of the HTML5 is primarily to make easier for web developers.
+````html
+New Features:
+  1) Browser support
+  2) Geolocation
+  3) Ofline application cache
+  4) Web storage
+  5) Error Handing
+  6) New Application Programming Interface API
+  7) New Structure
+````
+

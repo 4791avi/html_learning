@@ -1,0 +1,14 @@
+# Container Tag:- Which has opening and closing tag
+  Ex:- 
+    <html> ...........</html>
+    <head> ...........</head>
+    <body> ...........</body>
+
+# Empty Tag:- Whih has only opening tag.
+    Ex:- 
+      <br>
+      <area>
+      <hr>
+      <img>
+      <base>
+      <input>
